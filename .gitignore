@@ -1,0 +1,22 @@
+# Kubernetes credentials
+kubeconfig
+*.kubeconfig
+kubeconfig.yaml
+.kube/
+
+# Keys, certificates, signing requests
+*.key
+*.pem
+*.crt
+*.csr
+
+# Secrets and environment files
+.env
+.env.*
+*secret*.yaml
+!*secret*-example.yaml
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
