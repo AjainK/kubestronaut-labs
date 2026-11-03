@@ -1,0 +1,1 @@
+- 2026-11-02 · K8s Basics · Setup + Kubernetes Overview · created both GitHub repos, learned the control-plane components, and worked out why Kubernetes needs etcd as its source of truth
