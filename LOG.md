@@ -1,1 +1,2 @@
 - 2026-11-02 · K8s Basics · Setup + Kubernetes Overview · created both GitHub repos, learned the control-plane components, and worked out why Kubernetes needs etcd as its source of truth
+- 2026-11-03 · K8s Basics · Kubernetes Concepts + YAML · learned pods and kubectl basics, the 4 required manifest fields, and wrote my first pod YAML from scratch
