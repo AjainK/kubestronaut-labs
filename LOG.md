@@ -1,2 +1,4 @@
 - 2026-11-02 · K8s Basics · Setup + Kubernetes Overview · created both GitHub repos, learned the control-plane components, and worked out why Kubernetes needs etcd as its source of truth
 - 2026-11-03 · K8s Basics · Kubernetes Concepts + YAML · learned pods and kubectl basics, the 4 required manifest fields, and wrote my first pod YAML from scratch
+- 2026-11-04 · K8s Basics · Pods and ReplicaSets · learned how ReplicaSets self-heal using label selectors; deleted a pod and watched it get replaced
+- 2026-11-05 · K8s Basics · Deployments, updates and rollbacks · did a rolling update from nginx 1.24 to 1.25 and rolled it back; learned history is kept as old ReplicaSets
